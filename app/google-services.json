@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478316679157",
+    "project_id": "courses-management-app",
+    "storage_bucket": "courses-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478316679157:android:72ea880adf18a53f879abc",
+        "android_client_info": {
+          "package_name": "com.example.coursemanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478316679157-lhtb75p69fua4m86pm1fuf9ugg1tms5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriqXCD6zfbO7dIA_iFpSlyHSyjcLWoSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478316679157-lhtb75p69fua4m86pm1fuf9ugg1tms5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
